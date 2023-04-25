@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **3D Modelling, Animation, and Game Design**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
